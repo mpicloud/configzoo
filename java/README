@@ -1,0 +1,9 @@
+This is a list of links to various Java vendors and the properties they support
+
+## JRockit 
+
+Oracle JRockit [-XX Command-line Options][https://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/jrdocs/refman/optionXX.html]
+
+## IBM
+
+[Command-line options][https://www.ibm.com/support/knowledgecenter/en/SSYKE2_8.0.0/com.ibm.java.vm.80.doc/docs/cmdline.html]
